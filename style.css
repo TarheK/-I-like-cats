@@ -2,9 +2,8 @@ p {
   font-size: 200%;
   color: blue;
   font-family: verdana;
-   border: 5px solid purple;
-   border: 5px solid lightgreen;
-    margin: 50px;
+  border: 5px solid purple;
+  margin: 50px;
 }
 
 body {
