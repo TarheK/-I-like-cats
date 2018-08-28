@@ -1,9 +1,9 @@
 p {
   font-size: 200%;
   color: blue;
+  font-family: verdana;
 }
 
 body {
      background-color: lightpink;
-     font-family: verdana;
 }
