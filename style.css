@@ -3,6 +3,8 @@ p {
   color: blue;
   font-family: verdana;
    border: 1px solid purple;
+   border: 1px solid lightgreen;
+    margin: 50px;
 }
 
 body {
