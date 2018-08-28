@@ -2,6 +2,7 @@ p {
   font-size: 200%;
   color: blue;
   font-family: verdana;
+   border: 1px solid powderblue;
 }
 
 body {
